@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1718830468949,
+      "tag": "0000_salty_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1718888438523,
+      "tag": "0001_numerous_nemesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1718997737079,
+      "tag": "0002_nebulous_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1719000275724,
+      "tag": "0003_romantic_otto_octavius",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1719417897460,
+      "tag": "0004_lying_psynapse",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE "subscription" ADD COLUMN "deactivated_at" timestamp (2) with time zone;
